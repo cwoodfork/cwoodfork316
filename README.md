@@ -3,7 +3,7 @@ Pre Edit Branch Structure:
 Branch contributions: 
     Feature 1: 
 
-    Feature 2:
+    Feature 2: max attempts and game over condition
 
     Feature 3:
 
